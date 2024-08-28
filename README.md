@@ -104,7 +104,7 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 ## 📘 My top open source project
 
 <p align="left">
-  <a href="https://github.com/timoteewo404/AugmentedRealitySL"><img width="25%" src="ss.png" alt="readme-typing-svg"></a>
+  <a href="https://github.com/timoteewo404/AugmentedRealitySL"><img width="25%" src="" alt="readme-typing-svg"></a>
 </p>-->
 
 <p align="left">
