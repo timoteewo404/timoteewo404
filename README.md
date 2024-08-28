@@ -100,13 +100,13 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 <br/>
-
-
-  <a href="https://github.com/timoteewo404"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=timoteewo404&theme=radical&title_color=ff3068?"></a>
   <p align="right">
   <a href="https://github.com/timoteewo404"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=timoteewo404&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
   </p>
+
+  <a href="https://github.com/timoteewo404"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=timoteewo404&theme=radical&title_color=ff3068?"></a>
+
 
 ## 📘 My top open source projects
 
