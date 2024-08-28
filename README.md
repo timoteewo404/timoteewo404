@@ -96,8 +96,9 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 <img align="right" width="38%" height="100%" src="Night-Coding.gif"/>
 <br/>
 ### Now Playing 🎧
-
+<div alig="right">
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+</div>
 <br/>
 
 
