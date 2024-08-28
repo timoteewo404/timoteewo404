@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="images/animation.gif" width="100%" height="auto"/></a>
+![image](https://github.com/user-attachments/assets/8666caeb-e57f-430f-a5d8-0a61fabf6313)<a href="https://top.gg/bot/623481583411658753"><img src="images/animation.gif" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -104,7 +104,7 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 ## 📘 My top open source project
 
 <p align="left">
-  <a href="https://github.com/timoteewo404/AugmentedRealitySL"></a>
+  <a href="https://github.com/timoteewo404/AugmentedRealitySL"><img src="ss.png"></a>
 </p>
 
 <p align="left">
