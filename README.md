@@ -100,12 +100,12 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
   <a href="https://github.com/timoteewo404"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=timoteewo404&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 
-
+<!--
 ## 📘 My top open source project
 
 <p align="left">
   <a href="https://github.com/timoteewo404/AugmentedRealitySL"><img width="25%" src="ss.png" alt="readme-typing-svg"></a>
-</p>
+</p>-->
 
 <p align="left">
   <a href="https://github.com/timoteewo404?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
