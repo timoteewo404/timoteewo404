@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at everything, ambitious full stack developer by profession,and student at makerere University! I specialise in Web Development, aurdino and Graphics Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at everything, ambitious full stack developer by profession,and student at makerere University! I specialise in Web Development, Robotics and Graphics Design. I love to network, join new communities and add value ✨
 
 <div>
 
@@ -28,7 +28,7 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 
 - 🤝 I’m looking for groups with **finding projects to contribute to!**
 
-- 💬 Ask me about **open source, web development, Aurdino and graphics design**
+- 💬 Ask me about **open source, web development, Robotics and graphics design**
 
 - 📫 Reach me out at **cheotim66@gmail.com**
 
