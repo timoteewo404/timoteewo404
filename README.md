@@ -26,7 +26,7 @@ Hi 👋, I am **Timoteewo** an Open source enthusiasts, eternal amateur at every
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 🤝 I’m looking for groups with ** projects to contribute to!**
+- 🤝 I’m looking for groups with **Projects to contribute to!**
 
 - 💬 Ask me about **open source, web development, Robotics and graphics design**
 
